@@ -1,0 +1,6 @@
+::ng-deep .card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+  }
